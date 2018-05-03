@@ -1,0 +1,56 @@
+.lc_add_media_file_btn, .lc_remove_media_file_btn {
+    float: left;
+    height: 80px;
+    width: 80px;
+    display: block;
+    background: #F5F5F5;
+    border: 1px solid #DFDFDF;
+    color: #F5F5F5;
+    position: relative;    
+}
+
+.lc_remove_media_file_btn {
+	margin-left: 10px;
+}
+
+.lc_add_media_file_btn i, .lc_remove_media_file_btn i {
+	font-size: 18px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    color: #87D148;
+}
+
+.lc_remove_media_file_btn i {
+	color: #FF7877;
+}
+
+.clearfix:after {
+  clear: both;
+  height: 0;
+  visibility: hidden;
+}
+
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.lc_wave_song_preview {
+	display: none;
+	margin-bottom: 20px;
+    margin-top: 15px;
+    font-style: italic;
+    color: #0085ba;
+    font-size: 14px;
+    padding: 25px;
+    background-color: #f5f5f5;
+    text-align: center;
+    border: 1px dashed #DFDFDF;	
+}
+
+.lc_wave_song_preview.show_song_title {
+	display: block;
+}

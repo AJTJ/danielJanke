@@ -1,0 +1,37 @@
+<wpml-config>
+    <shortcodes>
+        <shortcode>
+            <tag>vc_text_separator</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>js_swp_theme_button</tag>
+            <attributes>
+                <attribute>button_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lc_swp_user_review</tag>
+            <attributes>
+                <attribute>reviewer_name</attribute>
+                <attribute>review_content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>js_swp_row_heading</tag>
+            <attributes>
+                <attribute encoding="base64">title</attribute>
+                <attribute encoding="base64">subtitle</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>js_swp_last_events</tag>
+            <attributes>
+                <attribute>viewallmessage</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>        
+</wpml-config>
