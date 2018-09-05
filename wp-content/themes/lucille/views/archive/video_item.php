@@ -13,13 +13,14 @@
 ?>
 
 <div class="single_video_item<?php echo esc_attr($has_right_padding); ?>">
+	<a href="<?php the_permalink(); ?>">
+		<h3 class="video_title transition3"> <?php the_title(); ?> </h3>
+	</a>
 	<a href="<?php the_permalink();?>">
 		<div class="video_image_container lc_swp_background_image" data-bgimage="<?php echo esc_url($bg_img_url); ?>">
 			<i class="fa fa-play-circle lc_icon_play_video" aria-hidden="true"></i>
 		</div>
 	</a>
 
-	<a href="<?php the_permalink(); ?>">
-		<h3 class="video_title transition3"> <?php the_title(); ?> </h3>
-	</a>
+
 </div>

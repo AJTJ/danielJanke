@@ -1,0 +1,495 @@
+2018-05-04T19:27:01+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:27:12+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:27:18+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php:49
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php(49): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:27:22+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:27:27+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:27:30+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:27:34+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:27:42+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:27:49+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:28:45+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:29:26+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:30:03+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:30:08+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php:49
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php(49): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:30:14+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:31:03+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:31:07+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:31:17+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:31:51+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:31:56+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:32:17+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:32:43+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:33:04+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:33:11+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:34:44+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:38:02+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:38:35+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:38:42+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:41:11+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:41:21+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:41:27+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:41:29+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php:49
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php(49): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T19:43:00+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:49:09+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:49:36+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:50:47+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:56:04+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:56:53+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:57:17+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T19:59:47+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T20:01:01+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T20:01:07+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:01:11+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php:49
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php(49): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:01:16+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T20:01:20+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php:539
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/lucille-music-core/visual_composer/add_shortcodes.php(539): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(319): LUCILLE_SWP_js_swp_last_events('', '', 'js_swp_last_eve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(js_swp...', 'do_shortcode_ta...', '[js_swp_last_ev...')
+#4 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('[js_swp_last_ev...')
+#5
+
+2018-05-04T20:07:55+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php:49
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php(49): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:08:01+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:08:33+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:09:09+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php:49
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-all.php(49): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:09:20+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:09:47+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:09:51+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:10:54+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:11:39+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:11:43+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
+2018-05-04T20:11:47+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (2018-09-) at position 7 (-): Unexpected character in /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php:52
+Stack trace:
+#0 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-content/themes/lucille/template-events-upcoming.php(52): DateTime->__construct('2018-09-')
+#1 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-includes/template-loader.php(74): include('/Users/aaronjan...')
+#2 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/wp-blog-header.php(19): require_once('/Users/aaronjan...')
+#3 /Users/aaronjanke/webProjects/danielJanke/danielJankeWordpress/index.php(17): require('/Users/aaronjan...')
+#4 {main}
+  thrown
+
